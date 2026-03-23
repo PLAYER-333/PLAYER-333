@@ -1,5 +1,8 @@
 # 💫 About Me:
-💻 Passionate Coder | Problem Solver | Lifelong Learner 🔧 Crafting clean, efficient, and scalable solutions 🌱 Always exploring new technologies and best
+💻 Passionate Coder | Problem Solver | 
+Lifelong Learner 🔧 Crafting clean, efficient, 
+and scalable solutions 🌱 
+Always exploring new technologies and best
 
 
 ## 🌐 Socials:
